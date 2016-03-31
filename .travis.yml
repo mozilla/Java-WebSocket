@@ -1,6 +1,5 @@
 # Java-WebSocket .travis.yml
 language: java
-jdk:
-  - oraclejdk7
 
-script: "./gradlew test"
+jdk:
+  - oraclejdk8
